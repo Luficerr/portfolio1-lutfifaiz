@@ -27,6 +27,8 @@ This is the source code for my personal portfolio website.
 
 ## Design
 
+_Website template design credits to [How To Web Dev](https://youtu.be/Dtb3DdSvYRY?si=W3i17X1tVeeMKs98) on YouTube._
+
 ### Fonts
 
 [Poppins](https://fonts.google.com/specimen/Poppins) - sans serif
