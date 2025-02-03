@@ -40,14 +40,11 @@ This is the source code for my personal portfolio website.
 
 ### Color Scheme
 
-- White - all normal text color
-- Oxford Blue - page background color, text color on white background
-- Charm Pink - links, nav bar item hover, icon hover color
-- Shamrock Green - Charm Pink links hover color
-- Viridian Green - project skill text color
-- Slate Gray - mobile navbar background color
+- White
+- Black
+- Orangered
 
-<a href="https://coolors.co/ffffff-1d263b-f08cae-399e5a-0fa3b1-6b818c"><img alt="Color Palette Screenshot" src="./img/readme/palette.png"></a>
+<a href="https://coolors.co/ffffff-000000-ff4500"><img alt="Color Palette Screenshot" src="./img/palette.png"></a>
 
 ### Icon
 
@@ -65,10 +62,10 @@ _Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
 - 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
-- 💜 [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
-- 💙 [Google Domains](https://domains.google/) for the cool domain
-- 💜 [Netlify](https://www.netlify.com/) for hosting
-- 💙 [Figma](https://www.figma.com/) for design and prototyping tools
+- 💜 [PHP](https://www.w3schools.com/php) for server-side scripting
+- 💙 [MySQL](https://www.w3schools.com/mysql) and [phpMyAdmin](https://www.phpmyadmin.net/) for database management
+- 💜 [Boxicons](https://boxicons.com/) for the icons
+- 💙 [InfinityFree](https://www.infinityfree.net/) for free hosting
 
 ---
 
