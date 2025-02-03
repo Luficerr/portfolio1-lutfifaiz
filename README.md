@@ -29,14 +29,10 @@ This is the source code for my personal portfolio website.
 
 ### Fonts
 
-[Fire Code](https://fonts.google.com/specimen/Fira+Code) - headings and code text
+[Poppins](https://fonts.google.com/specimen/Poppins) - sans serif
 
-<img alt="Font Example Screenshot" src="./img/readme/fire-code.png">
+<img alt="Font Example Screenshot" src="./img/poppins.png">
 
-
-[Nunito](https://fonts.google.com/specimen/Nunito) - normal text
-
-<img alt="Font Example Screenshot" src="./img/readme/nunito.png">
 
 ### Color Scheme
 
