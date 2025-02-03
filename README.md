@@ -46,7 +46,7 @@ This is the source code for my personal portfolio website.
 
 This is the icon of the website.
 
-_Art credits to Shutterstock(https://www.shutterstock.com/image-vector/lfz-initial-letter-monogram-logo-design-2308358511)._
+_Art credits to [Shutterstock](https://www.shutterstock.com/image-vector/lfz-initial-letter-monogram-logo-design-2308358511)._
 
 <img alt="Icon" src="./img/logo3.png" width="250px">
 
