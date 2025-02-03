@@ -11,7 +11,7 @@ This is the source code for my personal portfolio website.
 </p>
 
 <p align="center">
-  <a href="https://lutfifaizziyadatullah.free.nf/"><img src="./img/preview.png" width="700px" alt="landing page"></a>
+  <a href="https://lutfifaizziyadatullah.free.nf/"><img src="./img/preview2.png" width="700px" alt="landing page"></a>
 </p>
 
 ## Table of Contents
