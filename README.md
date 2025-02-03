@@ -44,13 +44,11 @@ This is the source code for my personal portfolio website.
 
 ### Icon
 
-This is the icon of me on the Home and About pages.
+This is the icon of the website.
 
-_Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
+_Art credits to Shutterstock(https://www.shutterstock.com/image-vector/lfz-initial-letter-monogram-logo-design-2308358511)._
 
-<img alt="Me Icon" src="./img/me-icon.png" width="250px">
-<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="250px">
-<img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
+<img alt="Icon" src="./img/logo3.png" width="250px">
 
 ---
 ## Built With
