@@ -5,7 +5,6 @@ This is the source code for my personal portfolio website.
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 
 </p>
@@ -57,11 +56,10 @@ _Art credits to [Shutterstock](https://www.shutterstock.com/image-vector/lfz-ini
 
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
-- 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
-- 💜 [PHP](https://www.w3schools.com/php) for server-side scripting
-- 💙 [MySQL](https://www.w3schools.com/mysql) and [phpMyAdmin](https://www.phpmyadmin.net/) for database management
-- 💜 [Boxicons](https://boxicons.com/) for the icons
-- 💙 [InfinityFree](https://www.infinityfree.net/) for free hosting
+- 💙 [PHP](https://www.w3schools.com/php) for server-side scripting
+- 💜 [MySQL](https://www.w3schools.com/mysql) and [phpMyAdmin](https://www.phpmyadmin.net/) for database management
+- 💙 [Boxicons](https://boxicons.com/) for the icons
+- 💜 [InfinityFree](https://www.infinityfree.net/) for free hosting
 
 ---
 
