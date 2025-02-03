@@ -65,25 +65,30 @@ _Art credits to [Shutterstock](https://www.shutterstock.com/image-vector/lfz-ini
 
 ## Creator
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+Lutfi Faiz Ziyadatullah ([Luficerr](https://github.com/Luficerr))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
+  <a href="mailto:lutfifaizziyadatullah@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-This project was created for educational purposes and for personal use. 
-- If you are interested in forking this to use as a template for your own portfolio website, please give credit (i.e., in the README) and ensure to update all information and content to be yours before deploying, so you are not displaying my content and information as your own. Thanks.
+This project was created for educational purposes and as a personal reference for web development learning. It serves as an archive of study materials and a resource for improving programming skills. Additionally, this project was developed to fulfill the final project requirement for the **Web Programming 1 (Pemrograman Web 1)** course.  
 
-If you like my content or find this code useful, give it a ⭐ or support me by buying me a coffee ☕💙
+If you are interested in forking this repository as a template for your own portfolio website, please give proper credit (e.g., in the README) and ensure that all content and information are updated to be yours before deployment, so you are not displaying my content as your own.  
 
-<a href="https://www.buymeacoffee.com/anniedotexe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Hope this helps! 💻✨
+
+If you like my content or find this code useful, give it a ⭐ or follow me on Instagram 📷💙  
+
+<a href="https://www.instagram.com/lutfifaizziyadatullah" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Follow Me on Instagram" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+</a>
 
 ---
 
 ## License
 
-Copyright &copy; 2021-2024 Annie Wu. All rights reserved.
+Copyright &copy; 2024-2025 Lutfi Faiz Ziyadatullah. All rights reserved.
