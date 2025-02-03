@@ -84,7 +84,7 @@ Hope this helps! 💻✨
 If you like my content or find this code useful, give it a ⭐ or follow me on Instagram 📷💙  
 
 <a href="https://www.instagram.com/lutfifaizziyadatullah" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Follow Me on Instagram" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Follow Me on Instagram" style="height: 50px; width: 50px;">
 </a>
 
 ---
